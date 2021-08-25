@@ -1,4 +1,4 @@
 # Meu-Clone
 Primeiro Trabalho
-https://looksilva-jpg.github.io/Meu-Clone/
+http://127.0.0.1:5500/style/index.html
 
